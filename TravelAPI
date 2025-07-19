@@ -1,0 +1,18 @@
+{
+    "destinations":[
+        {
+        "destination_id":"1",
+        "country":"Türkiye",
+        "city":"Ankara",
+        "information":"xxx"
+        
+    },
+    {
+        "destination_id":"2",
+        "country":"Türkiye",
+        "city":"İstanbul",
+        "information":"xxx"
+        
+    }
+    ]
+}
