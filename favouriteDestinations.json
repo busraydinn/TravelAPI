@@ -1,0 +1,32 @@
+{
+    "favouriteDestinations": [
+       {
+      "destination_id": "1",
+      "country": "Türkiye",
+      "city": "Ankara",
+      "information": "Ankara, Türkiye'nin başkenti. Coğrafi olarak Türkiye'nin merkezine yakın bir konumda bulunur ve İç Anadolu Bölgesi'nde yer alır.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ankara_asv2021-10_img04_An%C4%B1tkabir.jpg/960px-Ankara_asv2021-10_img04_An%C4%B1tkabir.jpg"
+
+    },
+    {
+      "destination_id": "2",
+      "country": "Türkiye",
+      "city": "İstanbul",
+      "information": "İstanbul, Türkiye'nin ekonomik, kültürel ve tarihî merkezini oluşturan en büyük şehridir. 15 milyonu aşan nüfusuyla Türkiye nüfusunun yaklaşık %18'ine ev sahipliği yapmaktadır.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Istanbul_asv2020-02_img53_Maiden%27s_Tower.jpg/250px-Istanbul_asv2020-02_img53_Maiden%27s_Tower.jpg"
+    }, {
+      "destination_id": "5",
+      "country": "Türkiye",
+      "city": "Kapadokya",
+      "information": "Kapadokya, 60 milyon yıl önce Erciyes, Hasandağı ve Göllüdağ’ın püskürttüğü lav ve küllerin oluşturduğu yumuşak tabakaların milyonlarca yıl boyunca yağmur ve rüzgâr tarafından aşındırılmasıyla ortaya çıkan bölgedir.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cappadociasunrise.jpg/500px-Cappadociasunrise.jpg"
+    },
+    {
+      "destination_id": "6",
+      "country": "Türkiye",
+      "city": "Marmaris",
+      "information": "Türkiye'nin gözbebeği Marmaris halı, bal, semt pazarları, hediyelik eşya dükkânları, butik otelleri, nefes kesen koyları, masmavi denizi, tertemiz havası, büyüleyici doğası, barlar sokağı, plajları ve tertemiz sokakları ile meşhurdur.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Marmaris_harbor_%28aerial_view%29%2C_Mu%C4%9Fla_Province%2C_southwest_Turkey%2C_Mediterranean.jpg/960px-Marmaris_harbor_%28aerial_view%29%2C_Mu%C4%9Fla_Province%2C_southwest_Turkey%2C_Mediterranean.jpg"
+    }
+    ]
+}
